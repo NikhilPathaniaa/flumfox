@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+main{
+    height: 99.5vh;
+    border: 1px solid black;
+}
+header
+{
+    height: 10.5vh;
+    border: 1px solid black;
+}
+#bottom
+{
+    height: 89vh;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section
+{
+    height: 100%;
+    border: 1px solid blue;
+}
+#s1
+{
+    width: 300%;
+}
+#s2
+{
+    width: 500%;
+}
+#s3
+{
+    width: 300%;
+}
