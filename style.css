@@ -21,7 +21,7 @@ header
     justify-content: center;
     align-items: center;
 }
-section
+section,aside
 {
     height: 100%;
     border: 1px solid blue;
